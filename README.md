@@ -5,7 +5,7 @@ Design Purpose
 - Simplify the process to create a bare-bones program that allows the ability to manipulate the constraints and rules of the game.
 - Implement a practical application of pointers and reinforce the conceptual understanding of memory addresses, linked lists, and structs
   
-Time and Space complexity purpose:
--Understand the time complexity of all the aforementioned methods
+Time and Space complexity purpose
+- Understand the time complexity of all the aforementioned methods
 
 *Project uses VS code and C++, requiring a compiler and editor
